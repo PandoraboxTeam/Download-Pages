@@ -1,0 +1,22 @@
+[
+  {
+    "name": "mipsel_1004kc_dsp",
+    "list": "online"
+  },
+  {
+    "name": "mipsel_24kec_dsp",
+    "list": "online"
+  },
+  {
+    "name": "mt7620",
+    "list": "online"
+  },
+  {
+    "name": "mt7621",
+    "list": "online"
+  },
+  {
+    "name": "mt7628",
+    "list": "online"
+  }
+]

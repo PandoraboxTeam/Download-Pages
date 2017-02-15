@@ -1,0 +1,69 @@
+[
+  {
+    "name": "md5sums"
+  },
+  {
+    "name": "packages",
+    "list": "online"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7621-AmazingBox-squashfs-sysupgrade-2016-09-20-git-221761b.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7621-AmazingBox-squashfs-sysupgrade-2016-09-20-git-fd761fa.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7621-creativebox-mt7621-squashfs-sysupgrade-2016-09-20-git-221761b.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7621-creativebox-mt7621-squashfs-sysupgrade-2016-09-20-git-fd761fa.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7621-mt7621a-evb-squashfs-sysupgrade-2016-09-20-git-221761b.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7621-mt7621a-evb-squashfs-sysupgrade-2016-09-20-git-fd761fa.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7621-newifi-d1-squashfs-sysupgrade-2016-09-20-git-221761b.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7621-newifi-d1-squashfs-sysupgrade-2016-09-20-git-fd761fa.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7621-pbr-aps-squashfs-sysupgrade-2016-09-20-git-221761b.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7621-pbr-aps-squashfs-sysupgrade-2016-09-20-git-fd761fa.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7621-pbr-m1-squashfs-sysupgrade-2016-09-20-git-221761b.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7621-pbr-m1-squashfs-sysupgrade-2016-09-20-git-fd761fa.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7621-timecloud2-squashfs-sysupgrade-2016-09-20-git-221761b.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7621-timecloud2-squashfs-sysupgrade-2016-09-20-git-fd761fa.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7621-timecloud-squashfs-sysupgrade-2016-09-20-git-221761b.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7621-timecloud-squashfs-sysupgrade-2016-09-20-git-fd761fa.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7621-y2s-squashfs-sysupgrade-2016-09-20-git-221761b.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7621-y2s-squashfs-sysupgrade-2016-09-20-git-fd761fa.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7621-yk-l2-squashfs-sysupgrade-2016-09-20-git-221761b.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7621-yk-l2-squashfs-sysupgrade-2016-09-20-git-fd761fa.bin"
+  }
+]

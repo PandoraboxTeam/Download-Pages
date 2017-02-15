@@ -1,0 +1,13 @@
+[
+  {
+    "name": "develop",
+    "list": "online"
+  },
+  {
+    "name": "stable"
+  },
+  {
+    "name": "testing",
+    "list": "online"
+  }
+]

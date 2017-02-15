@@ -1,0 +1,33 @@
+[
+  {
+    "name": "md5sums"
+  },
+  {
+    "name": "packages",
+    "list": "online"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7628-360safe-p2-squashfs-sysupgrade-2016-09-22-git-3f0accd.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7628-dm06-squashfs-sysupgrade-2016-09-22-git-3f0accd.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7628-mt7628an-evb-squashfs-sysupgrade-2016-09-22-git-3f0accd.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7628-pbr-bhu-squashfs-sysupgrade-2016-09-22-git-3f0accd.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7628-pbr-c1-squashfs-sysupgrade-2016-09-22-git-3f0accd.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7628-pbr-d1-squashfs-sysupgrade-2016-09-22-git-3f0accd.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7628-pbr-w3-squashfs-sysupgrade-2016-09-22-git-3f0accd.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7628-xiaomi-r1cl-squashfs-sysupgrade-2016-09-22-git-3f0accd.bin"
+  }
+]

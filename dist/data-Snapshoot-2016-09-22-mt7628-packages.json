@@ -1,0 +1,576 @@
+[
+  {
+    "name": "base",
+    "list": [
+      {
+        "name": "bandwidth-pandorabox_2_all.ipk"
+      },
+      {
+        "name": "base-files_157-2016-09-22-git-3f0accd_ralink.ipk"
+      },
+      {
+        "name": "blkid_2.24.1-1_ralink.ipk"
+      },
+      {
+        "name": "block-mount_2016-07-24-addd7dc21fe99f2701c1d4708071578052af401d_ralink.ipk"
+      },
+      {
+        "name": "busybox_1.24.1-1_ralink.ipk"
+      },
+      {
+        "name": "chat_2.4.7-8_ralink.ipk"
+      },
+      {
+        "name": "comgt_0.32-23_ralink.ipk"
+      },
+      {
+        "name": "dnsmasq_2.75-6_ralink.ipk"
+      },
+      {
+        "name": "dropbear_2015.71-2_ralink.ipk"
+      },
+      {
+        "name": "e2fsprogs_1.43.1-1_ralink.ipk"
+      },
+      {
+        "name": "firewall_2016-01-29_ralink.ipk"
+      },
+      {
+        "name": "fstools_2016-07-24-addd7dc21fe99f2701c1d4708071578052af401d_ralink.ipk"
+      },
+      {
+        "name": "gpioctl_1.0-1_ralink.ipk"
+      },
+      {
+        "name": "ip6tables_1.4.21-1_ralink.ipk"
+      },
+      {
+        "name": "ip-full_4.0.0-3_ralink.ipk"
+      },
+      {
+        "name": "iptables_1.4.21-1_ralink.ipk"
+      },
+      {
+        "name": "iptables-mod-conntrack-extra_1.4.21-1_ralink.ipk"
+      },
+      {
+        "name": "iptables-mod-filter_1.4.21-1_ralink.ipk"
+      },
+      {
+        "name": "iptables-mod-iface_2.3-1_ralink.ipk"
+      },
+      {
+        "name": "iptables-mod-ipmark_2.3-1_ralink.ipk"
+      },
+      {
+        "name": "iptables-mod-ipopt_1.4.21-1_ralink.ipk"
+      },
+      {
+        "name": "iptables-mod-nat-extra_1.4.21-1_ralink.ipk"
+      },
+      {
+        "name": "iptables-mod-u32_1.4.21-1_ralink.ipk"
+      },
+      {
+        "name": "iwinfo_2016-07-04-96d322d5941c57be58f8e8d5c6e2b28e90ed3598_ralink.ipk"
+      },
+      {
+        "name": "jshn_2016-07-29-290c64ef5b5c3e75be851594f269d6a9568e64e5_ralink.ipk"
+      },
+      {
+        "name": "jsonfilter_2014-06-19-cdc760c58077f44fc40adbbe41e1556a67c1b9a9_ralink.ipk"
+      },
+      {
+        "name": "kernel_3.14.79-1-d99a1cacc689c911f6ab49b50afab6da_ralink.ipk"
+      },
+      {
+        "name": "kmod-crypto-core_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-crypto-crc32c_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-crypto-hash_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-fs-exfat_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-fs-exportfs_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-fs-ext4_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-fs-ufsd_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-fs-vfat_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-fs-xfs_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-gpio-button-pandorabox_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-gpio-dev_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-gre_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-ifb_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-ip6tables_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-ipt-compat-xtables_3.14.79+2.3-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-ipt-conntrack_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-ipt-conntrack-extra_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-ipt-core_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-ipt-filter_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-ipt-iface_3.14.79+2.3-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-ipt-ipmark_3.14.79+2.3-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-ipt-ipopt_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-ipt-ipset_3.14.79+6.20.1-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-ipt-nat_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-ipt-nat-extra_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-ipt-nathelper_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-ipt-nathelper-extra_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-ipt-u32_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-iptunnel_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-ipv6_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-leds-gpio_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-ledtrig-gpio_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-ledtrig-netdev_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-ledtrig-timer_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-lib-crc16_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-lib-crc32c_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-lib-crc-ccitt_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-lib-textsearch_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-mmc_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-mt762x-mmc_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-nfnetlink_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-nls-base_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-nls-cp437_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-nls-cp936_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-nls-iso8859-1_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-nls-utf8_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-ppp_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-pppoe_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-pppox_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-sched-connmark_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-sched-core_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-sched-esfq_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-scsi-core_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-showspeed_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-slhc_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-usb2_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-usb-core_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-usb-ohci_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-usb-printer_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-usb-storage_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-usb-storage-extras_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "libblkid_2.24.1-1_ralink.ipk"
+      },
+      {
+        "name": "libblobmsg-json_2016-07-29-290c64ef5b5c3e75be851594f269d6a9568e64e5_ralink.ipk"
+      },
+      {
+        "name": "libc_1.0.14-1_ralink.ipk"
+      },
+      {
+        "name": "libext2fs_1.43.1-1_ralink.ipk"
+      },
+      {
+        "name": "libgcc_4.8-linaro-1_ralink.ipk"
+      },
+      {
+        "name": "libiconv-full_1.11.1-1_ralink.ipk"
+      },
+      {
+        "name": "libip4tc_1.4.21-1_ralink.ipk"
+      },
+      {
+        "name": "libip6tc_1.4.21-1_ralink.ipk"
+      },
+      {
+        "name": "libiwinfo_2016-07-04-96d322d5941c57be58f8e8d5c6e2b28e90ed3598_ralink.ipk"
+      },
+      {
+        "name": "libiwinfo-lua_2016-07-04-96d322d5941c57be58f8e8d5c6e2b28e90ed3598_ralink.ipk"
+      },
+      {
+        "name": "libjson-c_0.12-1_ralink.ipk"
+      },
+      {
+        "name": "libjson-script_2016-07-29-290c64ef5b5c3e75be851594f269d6a9568e64e5_ralink.ipk"
+      },
+      {
+        "name": "liblua_5.1.5-1_ralink.ipk"
+      },
+      {
+        "name": "libnl-tiny_0.1-5_ralink.ipk"
+      },
+      {
+        "name": "libopenssl_1.0.2h-1_ralink.ipk"
+      },
+      {
+        "name": "libpopt_1.16-1_ralink.ipk"
+      },
+      {
+        "name": "libpthread_1.0.14-1_ralink.ipk"
+      },
+      {
+        "name": "librt_1.0.14-1_ralink.ipk"
+      },
+      {
+        "name": "libubox_2016-07-29-290c64ef5b5c3e75be851594f269d6a9568e64e5_ralink.ipk"
+      },
+      {
+        "name": "libubus_2016-07-02-053be7df871e05478284235732f8b0608089512f_ralink.ipk"
+      },
+      {
+        "name": "libubus-lua_2016-07-02-053be7df871e05478284235732f8b0608089512f_ralink.ipk"
+      },
+      {
+        "name": "libuci_2016-07-04.1-1_ralink.ipk"
+      },
+      {
+        "name": "libuci-lua_2016-07-04.1-1_ralink.ipk"
+      },
+      {
+        "name": "libuclient_2016-07-30-ccb314db2e99463de15eed9d7626360d82aec4d2_ralink.ipk"
+      },
+      {
+        "name": "libustream-openssl_2016-07-02-ec80adaa1b47f28d426fa19c692011ce60b992d6_ralink.ipk"
+      },
+      {
+        "name": "libuuid_2.24.1-1_ralink.ipk"
+      },
+      {
+        "name": "libxtables_1.4.21-1_ralink.ipk"
+      },
+      {
+        "name": "lua_5.1.5-1_ralink.ipk"
+      },
+      {
+        "name": "maccalc_1_ralink.ipk"
+      },
+      {
+        "name": "mtd_21_ralink.ipk"
+      },
+      {
+        "name": "netifd_2016-07-29-656c387974879105c2aaec6b62478d0195067f2d_ralink.ipk"
+      },
+      {
+        "name": "odhcp6c_2015-09-04-dc186d6d2b0dd4ad23ca5fc69c00e81f796ff6d9_ralink.ipk"
+      },
+      {
+        "name": "odhcpd_2015-11-19-01d3f9d64486ac1daa144848944e877e7f0cb762_ralink.ipk"
+      },
+      {
+        "name": "opkg_9c97d5ecd795709c8584e972bfdf3aee3a5b846d-13_ralink.ipk"
+      },
+      {
+        "name": "Packages"
+      },
+      {
+        "name": "Packages.gz"
+      },
+      {
+        "name": "ppp_2.4.7-8_ralink.ipk"
+      },
+      {
+        "name": "ppp-mod-pppoe_2.4.7-8_ralink.ipk"
+      },
+      {
+        "name": "pppoe-discovery_1.0_ralink.ipk"
+      },
+      {
+        "name": "procd_2016-08-15-ba0ef6bea720c6cb263c034787fdd1ebe75be2fa_ralink.ipk"
+      },
+      {
+        "name": "ralink-utils_1_ralink.ipk"
+      },
+      {
+        "name": "rpcd_2016-06-30-23417e94d25570e6d62542bac46edd51e8e0243a_ralink.ipk"
+      },
+      {
+        "name": "samba3-pandorabox_4.0.26-5_ralink.ipk"
+      },
+      {
+        "name": "shellsync_0.2-1_ralink.ipk"
+      },
+      {
+        "name": "snapshot-tool_2016-07-24-addd7dc21fe99f2701c1d4708071578052af401d_ralink.ipk"
+      },
+      {
+        "name": "swconfig_10_ralink.ipk"
+      },
+      {
+        "name": "tc_4.0.0-3_ralink.ipk"
+      },
+      {
+        "name": "ubox_2016-07-19-aead2c0cbffdda9b46d74a998a4c6aeef423b21a_ralink.ipk"
+      },
+      {
+        "name": "ubus_2016-07-02-053be7df871e05478284235732f8b0608089512f_ralink.ipk"
+      },
+      {
+        "name": "ubusd_2016-07-02-053be7df871e05478284235732f8b0608089512f_ralink.ipk"
+      },
+      {
+        "name": "uci_2016-07-04.1-1_ralink.ipk"
+      },
+      {
+        "name": "uclient-fetch_2016-07-30-ccb314db2e99463de15eed9d7626360d82aec4d2_ralink.ipk"
+      },
+      {
+        "name": "ufsd-tools_1_ralink.ipk"
+      },
+      {
+        "name": "uhttpd_2016-06-16-9d9f07142bbef1c63a79620967a847a9493105e5_ralink.ipk"
+      },
+      {
+        "name": "uhttpd-mod-ubus_2016-06-16-9d9f07142bbef1c63a79620967a847a9493105e5_ralink.ipk"
+      },
+      {
+        "name": "wireless-tools_29-5_ralink.ipk"
+      }
+    ]
+  },
+  {
+    "name": "lafite",
+    "list": [
+      {
+        "name": "luci-mod-pandorabox_git-16.264.52151-fed5795-1_ralink.ipk"
+      },
+      {
+        "name": "luci-pandorabox_git-16.264.52151-fed5795-1_ralink.ipk"
+      },
+      {
+        "name": "luci-theme-lafite_git-16.264.52151-fed5795-1_ralink.ipk"
+      }
+    ]
+  },
+  {
+    "name": "luci",
+    "list": [
+      {
+        "name": "luci-app-arpbind_git-16.255.20859-251f41b-1_all.ipk"
+      },
+      {
+        "name": "luci-app-bandwidth_git-16.255.20859-251f41b-1_all.ipk"
+      },
+      {
+        "name": "luci-app-ddns_2.4.6-2_all.ipk"
+      },
+      {
+        "name": "luci-app-firewall_git-16.255.20859-251f41b-1_all.ipk"
+      },
+      {
+        "name": "luci-app-ntpc_git-16.255.20859-251f41b-1_all.ipk"
+      },
+      {
+        "name": "luci-app-samba_git-16.255.20859-251f41b-1_all.ipk"
+      },
+      {
+        "name": "luci-app-upnp_git-16.255.20859-251f41b-1_all.ipk"
+      },
+      {
+        "name": "luci-app-usb-printer_git-16.255.20859-251f41b-1_all.ipk"
+      },
+      {
+        "name": "luci-base_git-16.255.20859-251f41b-1_ralink.ipk"
+      },
+      {
+        "name": "luci_git-16.255.20859-251f41b-1_all.ipk"
+      },
+      {
+        "name": "luci-i18n-arpbind-zh-cn_git-16.255.20859-251f41b-1_all.ipk"
+      },
+      {
+        "name": "luci-i18n-bandwidth-zh-cn_git-16.255.20859-251f41b-1_all.ipk"
+      },
+      {
+        "name": "luci-i18n-base-zh-cn_git-16.255.20859-251f41b-1_all.ipk"
+      },
+      {
+        "name": "luci-i18n-ddns-zh-cn_2.4.6-2_all.ipk"
+      },
+      {
+        "name": "luci-i18n-firewall-zh-cn_git-16.255.20859-251f41b-1_all.ipk"
+      },
+      {
+        "name": "luci-i18n-ntpc-zh-cn_git-16.255.20859-251f41b-1_all.ipk"
+      },
+      {
+        "name": "luci-i18n-samba-zh-cn_git-16.255.20859-251f41b-1_all.ipk"
+      },
+      {
+        "name": "luci-i18n-upnp-zh-cn_git-16.255.20859-251f41b-1_all.ipk"
+      },
+      {
+        "name": "luci-i18n-usb-printer-zh-cn_git-16.255.20859-251f41b-1_all.ipk"
+      },
+      {
+        "name": "luci-lib-ip_git-16.255.20859-251f41b-1_ralink.ipk"
+      },
+      {
+        "name": "luci-lib-jsonc_git-16.255.20859-251f41b-1_ralink.ipk"
+      },
+      {
+        "name": "luci-lib-nixio_git-16.255.20859-251f41b-1_ralink.ipk"
+      },
+      {
+        "name": "luci-mod-admin-full_git-16.255.20859-251f41b-1_ralink.ipk"
+      },
+      {
+        "name": "luci-proto-3g_git-16.255.20859-251f41b-1_all.ipk"
+      },
+      {
+        "name": "luci-proto-ipv6_git-16.255.20859-251f41b-1_all.ipk"
+      },
+      {
+        "name": "luci-proto-ppp_git-16.255.20859-251f41b-1_all.ipk"
+      },
+      {
+        "name": "luci-theme-bootstrap_git-16.255.20859-251f41b-1_all.ipk"
+      },
+      {
+        "name": "luci-theme-material_git-16.255.20859-251f41b-1_all.ipk"
+      }
+    ]
+  },
+  {
+    "name": "mtkdrv",
+    "list": [
+      {
+        "name": "kmod-mt7628_3.14.79-1_ralink.ipk"
+      },
+      {
+        "name": "kmod-mt76x2e_3.14.79-1_ralink.ipk"
+      }
+    ]
+  },
+  {
+    "name": "packages",
+    "list": [
+      {
+        "name": "ddns-scripts_2.7.3-2_all.ipk"
+      },
+      {
+        "name": "dosfsck_4.0-1_ralink.ipk"
+      },
+      {
+        "name": "libattr_20140610-1_ralink.ipk"
+      },
+      {
+        "name": "miniupnpd_1.9.20151212-1_ralink.ipk"
+      },
+      {
+        "name": "ntpclient_2010_365-1_ralink.ipk"
+      },
+      {
+        "name": "p910nd_0.95-3_ralink.ipk"
+      }
+    ]
+  }
+]

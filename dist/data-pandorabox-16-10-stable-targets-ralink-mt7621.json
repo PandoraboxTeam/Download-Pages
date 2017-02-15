@@ -1,0 +1,47 @@
+[
+  {
+    "name": "PandoraBox-ralink-mt7621-a3004ns-2017-01-01-git-31d2b58-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7621-amazingbox-2017-01-01-git-31d2b58-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7621.manifest"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7621-mt7621a-evb-2017-01-01-git-31d2b58-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7621-newifi-2-2017-01-01-git-31d2b58-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7621-newifi-3-2017-01-01-git-31d2b58-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7621-pbr-aps-2017-01-01-git-31d2b58-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7621-pbr-m1-2017-01-01-git-31d2b58-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7621-pbr-m2-2017-01-01-git-31d2b58-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7621-timecloud-2017-01-01-git-31d2b58-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7621-timecloud2-2017-01-01-git-31d2b58-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7621-yk-l2-2017-01-01-git-31d2b58-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-SDK-ralink-mt7621_gcc-4.8-linaro_uClibc-1.0.x.Linux-x86_64.tar.xz"
+  },
+  {
+    "name": "PandoraBox-toolchain-ralink-mt7621_gcc-4.8-linaro_uClibc-1.0.x.Linux-x86_64.tar.bz2"
+  },
+  {
+    "name": "sha256sums"
+  }
+]

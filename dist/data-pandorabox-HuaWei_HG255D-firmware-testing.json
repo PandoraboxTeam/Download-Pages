@@ -1,0 +1,38 @@
+[
+  {
+    "name": "PandoraBox-ImageBuilder-ralink_rt305x-for-linux-x86_64-r460.tar.bz2"
+  },
+  {
+    "name": "PandoraBox-ralink-hg255d-r189-20141020.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-hg255d-r249-20141127.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-hg255d-r333-20141228.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-rt305x-hg255d-squashfs-sysupgrade-2016-08-05-git-3018e90.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-rt305x-hg255d-squashfs-sysupgrade-r1177-20150911.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-rt305x-hg255d-squashfs-sysupgrade-r404-20150128.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-rt305x-hg255d-squashfs-sysupgrade-r425-20150208-BUG.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-rt305x-hg255d-squashfs-sysupgrade-r456-20150216.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-rt305x-hg255d-squashfs-sysupgrade-r460-20150217.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-rt305x-hg255d-squashfs-sysupgrade-r761-20150508.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-rt305x-hg255d-squashfs-sysupgrade-r980-20150603.bin"
+  }
+]

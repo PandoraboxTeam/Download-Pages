@@ -1,0 +1,122 @@
+[
+  {
+    "name": "PandoraBox-R2-ralink-y1-r61-20140904-alpha.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade-r1002-20150604.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade-r1009-20150605.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade-r1012-20150606.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade-r1018-20150607.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade-r1055-20150615.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade-r1068-20150618.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade-r1140-20150709.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade-r1216-20150721.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade-r1430-20150919.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade-r1430-20150920.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade-r1454-20150925.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade-r1597-20151107.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade-r2118-20160217.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade-r2119-20160217.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade-r424-20150208-BUG.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade-r433-20150212.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade-r448-20150214.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade-r450-20150214.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade-r456-20150216.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade-r457-20150216.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade-r460-20150216.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade-r463-20150228.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade-r510-20150309.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade-r511-20150309.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade-r564-20150321.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade-r601-20150401.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade-r757-20150507.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade-r790-20150510.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade-r820-20150513.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade-r858-20150517.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade-r876-20150520.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade-r907-20150524.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade-r949-20150529.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade-r954-20150530.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade-r958-20150531.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade-r969-20150602.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade-r985-20150603.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1s-squashfs-sysupgrade-r2119-20160217.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-y1-r145-20140929.bin"
+  }
+]

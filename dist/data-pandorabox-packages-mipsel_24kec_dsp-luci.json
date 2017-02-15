@@ -1,0 +1,536 @@
+[
+  {
+    "name": "community-profiles_2_mipsel_24kec_dsp.ipk"
+  },
+  {
+    "name": "freifunk-common_1_mipsel_24kec_dsp.ipk"
+  },
+  {
+    "name": "freifunk-firewall_3_mipsel_24kec_dsp.ipk"
+  },
+  {
+    "name": "freifunk-policyrouting_6_mipsel_24kec_dsp.ipk"
+  },
+  {
+    "name": "luci-app-adblock_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-adbyby_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-ahcp_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-aria2_1.0.1-2_all.ipk"
+  },
+  {
+    "name": "luci-app-arpbind_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-asterisk_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-bandwidth_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-chinadns_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-commands_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-ddns_2.4.8-1_all.ipk"
+  },
+  {
+    "name": "luci-app-diag-core_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-dump1090_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-firewall_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-freifunk-diagnostics_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-freifunk-policyrouting_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-hd-idle_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-hwacc_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-mentohust_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-minidlna_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-mjpg-streamer_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-mmc-over-gpio_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-nfsd_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-ngrokc_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-ntpc_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-openvpn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-polipo_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-pppoeserver_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-pptpd_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-privoxy_1.0.6-1_all.ipk"
+  },
+  {
+    "name": "luci-app-qos_gargoyle_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-qos_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-qos-guoguo_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-redsocks2_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-rp-pppoe-server_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-samba_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-shadowsocks_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-shairplay_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-shairport_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-siitwizard_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-splash_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-statistics_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-syncdial_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-tinyproxy_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-transmission_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-udpxy_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-uhttpd_1.0.0-1_all.ipk"
+  },
+  {
+    "name": "luci-app-upnp_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-usb-printer_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-vnstat_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-vsftpd_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-w8021x_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-watchcat_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-webshell_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-wifischedule_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-wol_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-wshaper_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-app-xunlei_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-base_git-16.354.35264-23d1dc7-1_mipsel_24kec_dsp.ipk"
+  },
+  {
+    "name": "luci_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-adblock-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-ahcp-en_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-ahcp-ru_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-ahcp-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-aria2-zh-cn_1.0.1-2_all.ipk"
+  },
+  {
+    "name": "luci-i18n-arpbind-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-asterisk-en_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-asterisk-ru_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-asterisk-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-bandwidth-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-base-en_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-base-ru_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-base-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-chinadns-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-commands-en_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-commands-ru_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-commands-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-ddns-ru_2.4.8-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-ddns-zh-cn_2.4.8-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-diag-core-en_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-diag-core-ru_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-diag-core-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-firewall-en_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-firewall-ru_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-firewall-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-freifunk-policyrouting-en_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-freifunk-policyrouting-ru_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-freifunk-policyrouting-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-hd-idle-en_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-hd-idle-ru_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-hd-idle-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-hwacc-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-mentohust-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-minidlna-en_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-minidlna-ru_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-minidlna-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-mjpg-streamer-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-mmc-over-gpio-en_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-mmc-over-gpio-ru_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-mmc-over-gpio-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-nfsd-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-ngrokc-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-ntpc-en_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-ntpc-ru_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-ntpc-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-openvpn-en_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-openvpn-ru_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-openvpn-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-polipo-en_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-polipo-ru_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-polipo-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-pppoeserver-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-pptpd-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-privoxy-zh-cn_1.0.6-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-qos-en_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-qos_gargoyle-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-qos-guoguo-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-qos-ru_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-qos-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-redsocks2-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-samba-en_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-samba-ru_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-samba-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-shadowsocks-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-splash-en_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-splash-ru_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-splash-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-statistics-en_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-statistics-ru_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-statistics-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-tinyproxy-en_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-tinyproxy-ru_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-tinyproxy-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-transmission-en_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-transmission-ru_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-transmission-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-upnp-en_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-upnp-ru_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-upnp-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-usb-printer-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-vnstat-en_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-vnstat-ru_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-vnstat-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-vsftpd-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-w8021x-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-watchcat-en_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-watchcat-ru_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-watchcat-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-wifischedule-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-wol-en_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-wol-ru_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-wol-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-wshaper-en_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-wshaper-ru_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-i18n-wshaper-zh-cn_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-lib-httpclient_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-lib-ip_git-16.354.35264-23d1dc7-1_mipsel_24kec_dsp.ipk"
+  },
+  {
+    "name": "luci-lib-jsonc_git-16.354.35264-23d1dc7-1_mipsel_24kec_dsp.ipk"
+  },
+  {
+    "name": "luci-lib-json_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-lib-nixio_git-16.354.35264-23d1dc7-1_mipsel_24kec_dsp.ipk"
+  },
+  {
+    "name": "luci-mod-admin-full_git-16.354.35264-23d1dc7-1_mipsel_24kec_dsp.ipk"
+  },
+  {
+    "name": "luci-mod-failsafe_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-mod-rpc_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-proto-3g_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-proto-ipv6_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-proto-ppp_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-proto-relay_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-proto-vpnc_1.0.0-1_all.ipk"
+  },
+  {
+    "name": "luci-ssl_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-theme-bootstrap_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-theme-material_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-theme-openwrt_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "luci-theme-xeye_git-16.354.35264-23d1dc7-1_all.ipk"
+  },
+  {
+    "name": "Packages"
+  },
+  {
+    "name": "Packages.gz"
+  }
+]

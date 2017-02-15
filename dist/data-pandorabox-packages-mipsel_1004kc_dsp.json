@@ -1,0 +1,22 @@
+[
+  {
+    "name": "base",
+    "list": "online"
+  },
+  {
+    "name": "lafite",
+    "list": "online"
+  },
+  {
+    "name": "luci",
+    "list": "online"
+  },
+  {
+    "name": "mtkdrv",
+    "list": "online"
+  },
+  {
+    "name": "packages",
+    "list": "online"
+  }
+]
