@@ -18,33 +18,30 @@ head
         type="text/css"
         href="//cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.css"
     )
-    style.
-        .row > div {
-            height: 36px;
-            background-color: #f9f9f9;
-            cursor: pointer;
-            line-height: 36px;
-        }
-        .row > div:nth-child(2n) {
-            background-color: #fff;
-        }
-        .row > div:hover {
-            background-color: #f7f7f9;
-        }
+    link(
+        rel="stylesheet"
+        type="text/css"
+        href="style.css"
+    )
+
 body.container-fluid
-    h1(ng-bind="curPath")
     .row
-        div(
+        ol.breadcrumb
+            li(ng-repeat="name in curQueue" ng-bind='name')
+            li(ng-hide='curQueue.length') /
+
+    ul.list-group
+        li.list-group-item.prev(
+            ng-if="curQueue.length!=0"
+            ng-click="prev()"
+        )
+            strong ..
+        li.list-group-item(
             ng-repeat="item in list track by $index"
             alt="{{item.name}}"
             title="{{item.name}}"
         )
-            .col-sm-12(
-                ng-click="prev()"
-                ng-bind="::'..'"
-                ng-if="$first&&curQueue.length!=0"
-            )
-            .col-sm-12(
+            strong(
                 ng-click="enter(item)"
                 ng-bind-template="{{item.name}}/"
                 ng-if="!!item.list"
@@ -52,10 +49,9 @@ body.container-fluid
             a(
                 ng-href="{{item.href}}"
                 ng-bind="item.name"
-                ng-class="{true: 'col-sm-8', false: 'col-sm-12'}[!!item.date]"
                 ng-if="!item.list"
             )
-            .col-sm-4(
+            span.badge(
                 ng-bind="item.date"
                 ng-if="!!item.date"
             )
