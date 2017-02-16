@@ -15,7 +15,7 @@ module.exports = ->
 
     gulp.task 'default', ['build']
 
-    gulp.task 'build', ['html', 'scripts', 'generate']
+    gulp.task 'build', ['html', 'scripts', 'css','generate']
 
     gulp.task 'html', ->
 
@@ -31,6 +31,13 @@ module.exports = ->
             .pipe gulp.dest 'dist/'
             .once 'end', browserSync.reload
 
+    gulp.task 'css', ->
+
+        gulp.src 'src/*.css'
+            .pipe $.csso()
+            .pipe gulp.dest 'dist/'
+            .once 'end', browserSync.reload
+
     gulp.task 'serve', ['build'], ->
 
         browserSync.init {
@@ -41,6 +48,7 @@ module.exports = ->
 
         gulp.watch 'src/*.jade', ['html']
         gulp.watch 'src/*.coffee', ['scripts']
+        gulp.watch 'src/*.css', ['css']
 
     glob = require 'glob'
     Promise  = require 'bluebird'
