@@ -1,0 +1,25 @@
+body{
+    font-size: 12px
+}
+.breadcrumb {
+    font-size: 120%
+}
+.prev {
+    cursor: pointer;
+}
+.list-group-item:nth-child(even) {
+    background-color: #f9f9f9
+}
+.list-group-item strong {
+    cursor: pointer;
+    padding: 5px;
+}
+
+.list-group-item:hover {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #337ab7;
+}
+.list-group-item:hover a{
+    color: #fff;
+}

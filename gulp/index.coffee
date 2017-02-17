@@ -15,7 +15,7 @@ module.exports = ->
 
     gulp.task 'default', ['build']
 
-    gulp.task 'build', ['html', 'scripts', 'generate']
+    gulp.task 'build', ['html', 'scripts', 'css','generate']
 
     gulp.task 'html', ->
 
@@ -31,6 +31,13 @@ module.exports = ->
             .pipe gulp.dest 'dist/'
             .once 'end', browserSync.reload
 
+    gulp.task 'css', ->
+
+        gulp.src 'src/*.css'
+            .pipe $.csso()
+            .pipe gulp.dest 'dist/'
+            .once 'end', browserSync.reload
+
     gulp.task 'serve', ['build'], ->
 
         browserSync.init {
@@ -41,6 +48,7 @@ module.exports = ->
 
         gulp.watch 'src/*.jade', ['html']
         gulp.watch 'src/*.coffee', ['scripts']
+        gulp.watch 'src/*.css', ['css']
 
     glob = require 'glob'
     Promise  = require 'bluebird'
@@ -50,6 +58,17 @@ module.exports = ->
         return if files.length is 0
 
         data = [ ]
+
+        pushItem2Last = (arr=[ ], item={ }, depth=0) ->
+            if depth is 0
+                arr.push item
+                return arr
+            arr[arr.length - 1].list ?= [ ]
+            _arr = arr[arr.length - 1].list
+
+            arr[arr.length - 1].list = pushItem2Last(_arr, item, depth - 1)
+            return arr
+
         (new Promise (resolve) ->
 
             fs       = require 'fs'
@@ -73,73 +92,9 @@ module.exports = ->
                 # TODO 修改重复的
                 switch matches[0].length
                     when 1 then return
-                    when 4
-                        data.push {
-                            name : fileMatch[2]
-                        }
-                    when 8
-                        k0 = data.length - 1
-                        data[k0].list ?= [ ]
-                        data[k0].list.push {
-                            name : fileMatch[2]
-                        }
-                    when 12
-                        k0 = data.length - 1
-                        k1 = data[k0].list.length - 1
-                        data[k0].list[k1].list ?= [ ]
-                        data[k0].list[k1].list.push {
-                            name : fileMatch[2]
-                        }
-                    when 16
-                        k0 = data.length - 1
-                        k1 = data[k0].list.length - 1
-                        k2 = data[k0].list[k1].list.length - 1
-                        data[k0].list[k1].list[k2].list ?= [ ]
-                        data[k0].list[k1].list[k2].list.push {
-                            name : fileMatch[2]
-                        }
-                    when 20
-                        k0 = data.length - 1
-                        k1 = data[k0].list.length - 1
-                        k2 = data[k0].list[k1].list.length - 1
-                        k3 = data[k0].list[k1].list[k2].list.length - 1
-                        data[k0].list[k1].list[k2].list[k3].list ?= [ ]
-                        data[k0].list[k1].list[k2].list[k3].list.push {
-                            name : fileMatch[2]
-                        }
-                    when 24
-                        k0 = data.length - 1
-                        k1 = data[k0].list.length - 1
-                        k2 = data[k0].list[k1].list.length - 1
-                        k3 = data[k0].list[k1].list[k2].list.length - 1
-                        k4 = data[k0].list[k1].list[k2].list[k3].list.length - 1
-                        data[k0].list[k1].list[k2].list[k3].list[k4].list ?= [ ]
-                        data[k0].list[k1].list[k2].list[k3].list[k4].list.push {
-                            name : fileMatch[2]
-                        }
-                    when 28
-                        k0 = data.length - 1
-                        k1 = data[k0].list.length - 1
-                        k2 = data[k0].list[k1].list.length - 1
-                        k3 = data[k0].list[k1].list[k2].list.length - 1
-                        k4 = data[k0].list[k1].list[k2].list[k3].list.length - 1
-                        k5 = data[k0].list[k1].list[k2].list[k3].list[k4].list.length - 1
-                        data[k0].list[k1].list[k2].list[k3].list[k4].list[k5].list ?= [ ]
-                        data[k0].list[k1].list[k2].list[k3].list[k4].list[k5].list.push {
-                            name : fileMatch[2]
-                        }
-                    when 32
-                        k0 = data.length - 1
-                        k1 = data[k0].list.length - 1
-                        k2 = data[k0].list[k1].list.length - 1
-                        k3 = data[k0].list[k1].list[k2].list.length - 1
-                        k4 = data[k0].list[k1].list[k2].list[k3].list.length - 1
-                        k5 = data[k0].list[k1].list[k2].list[k3].list[k4].list.length - 1
-                        k6 = data[k0].list[k1].list[k2].list[k3].list[k4].list[k5].list.length - 1
-                        data[k0].list[k1].list[k2].list[k3].list[k4].list[k5].list[k6].list ?= [ ]
-                        data[k0].list[k1].list[k2].list[k3].list[k4].list[k5].list[k6].list.push {
-                            name : fileMatch[2]
-                        }
+                    else
+                        obj = { name: fileMatch[2] }
+                        pushItem2Last(data, obj, (matches[0].length / 4) - 1)
         ).then ->
             lowdb = require 'lowdb'
             dataRaw = data
