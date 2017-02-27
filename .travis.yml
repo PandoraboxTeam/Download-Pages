@@ -15,9 +15,6 @@ install:
   - npm install -g gulp
   - npm install
 
-before_script:
-  - bower install
-
 script: gulp
 
 after_script:
