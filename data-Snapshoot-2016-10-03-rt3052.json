@@ -1,0 +1,24 @@
+[
+  {
+    "name": "md5sums"
+  },
+  {
+    "name": "packages",
+    "list": "online"
+  },
+  {
+    "name": "PandoraBox-ImageBuilder-ralink_rt305x-for-linux-x86_64.tar.bz2"
+  },
+  {
+    "name": "PandoraBox-ralink-rt305x-hg255d-squashfs-sysupgrade-2016-10-03-git-f17527d.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-rt305x-rt-n13u-squashfs-sysupgrade-2016-10-03-git-f17527d.bin"
+  },
+  {
+    "name": "PandoraBox-SDK-ralink-for-linux-x86_64-gcc-4.8-linaro_uClibc-1.0.x.tar.bz2"
+  },
+  {
+    "name": "PandoraBox-Toolchain-ralink-for-mipsel_24kec+dsp-gcc-4.8-linaro_uClibc-1.0.x.tar.bz2"
+  }
+]

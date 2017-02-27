@@ -1,0 +1,125 @@
+[
+  {
+    "name": "PandoraBox-ralink-mt7620-ap7620a-squashfs-sysupgrade-2016-08-29-git-58386d4.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-ap7620a-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-hc5661-squashfs-sysupgrade-2016-08-29-git-58386d4.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-hc5661-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-hc5761-squashfs-sysupgrade-2016-08-29-git-58386d4.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-hc5761-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-hc5861-squashfs-sysupgrade-2016-08-29-git-58386d4.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-hc5861-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-microwrt-squashfs-sysupgrade-2016-08-29-git-58386d4.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-microwrt-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-mt7620a-evb-squashfs-sysupgrade-2016-08-29-git-58386d4.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-mt7620a-evb-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-mtall-squashfs-sysupgrade-2016-08-29-git-58386d4.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-mtall-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-mw305r-squashfs-sysupgrade-2016-08-29-git-58386d4.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-mw305r-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-oye-0001-squashfs-sysupgrade-2016-08-29-git-58386d4.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-oye-0001-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-ry-1-squashfs-sysupgrade-2016-08-29-git-58386d4.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-ry-1-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-vg100-squashfs-sysupgrade-2016-08-29-git-58386d4.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-vg100-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-wr8305rt-squashfs-sysupgrade-2016-08-29-git-58386d4.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-wr8305rt-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-wrtnode-squashfs-sysupgrade-2016-08-29-git-58386d4.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-wrtnode-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-xiaomi-mini-3-squashfs-nand-2016-08-29-git-58386d4-20160829.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-xiaomi-mini-3-squashfs-nand-2016-08-29-git-58386d4-20160830.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-xiaomi-mini-3-squashfs-ubinized.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-xiaomi-mini-squashfs-sysupgrade-2016-08-29-git-58386d4.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-xiaomi-mini-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade-2016-08-29-git-58386d4.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1s-squashfs-sysupgrade-2016-08-29-git-58386d4.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-y1s-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-yk1-fw1-squashfs-sysupgrade-2016-08-29-git-58386d4.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-yk1-fw1-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-yk1-fw2-squashfs-sysupgrade-2016-08-29-git-58386d4.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-yk1-fw2-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-yk1-squashfs-sysupgrade-2016-08-29-git-58386d4.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-yk1-squashfs-sysupgrade.bin"
+  }
+]

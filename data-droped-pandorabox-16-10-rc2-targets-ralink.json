@@ -1,0 +1,1086 @@
+[
+  {
+    "name": "mt7620",
+    "list": [
+      {
+        "name": "packages",
+        "list": [
+          {
+            "name": "kernel_3.14.79-1-9133b43e5f696a31696fa357f8aaae36_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-6lowpan-iphc_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-aoe_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-arptables_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ata-ahci_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ata-core_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ath10k_3.14.79+2016-06-20-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ath_3.14.79+2016-06-20-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ath9k_3.14.79+2016-06-20-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ath9k-common_3.14.79+2016-06-20-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ath9k-htc_3.14.79+2016-06-20-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-atm_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-block2mtd_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-bluetooth_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-bridge_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-button-hotplug_3.14.79-3_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-can_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-can-bcm_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-can-gw_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-can-raw_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-can-slcan_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-can-vcan_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-carl9170_3.14.79+2016-06-20-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-cfg80211_3.14.79+2016-06-20-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-crypto-arc4_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-crypto-core_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-crypto-crc32c_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-crypto-crct10dif_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-crypto-des_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-crypto-ecb_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-crypto-fcrypt_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-crypto-hash_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-crypto-hmac_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-crypto-manager_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-crypto-md4_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-crypto-md5_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-crypto-pcbc_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-crypto-pcompress_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-crypto-sha1_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-crypto-sha256_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-dahdi_3.14.79+2.11.1-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-dm_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-dnsresolver_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ebtables_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ebtables-ipv4_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ebtables-ipv6_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ebtables-watchers_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-echo_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-eeprom-93cx6_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-fs-afs_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-fs-autofs4_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-fs-btrfs_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-fs-cifs_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-fs-configfs_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-fs-cramfs_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-fs-exfat_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-fs-exportfs_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-fs-ext4_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-fs-fscache_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-fs-hfs_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-fs-hfsplus_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-fs-isofs_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-fs-jfs_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-fs-minix_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-fs-msdos_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-fs-nfs_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-fs-nfs-common_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-fs-nfsd_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-fs-ntfs_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-fs-reiserfs_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-fs-sunrpc-auth-rpcgss_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-fs-udf_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-fs-ufsd_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-fs-vfat_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-fs-xfs_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-fuse_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-gpio-button-pandorabox_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-gpio-dev_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-gpio-ir-recv_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-gpio-pca953x_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-gpio-pcf857x_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-gre_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-gre6_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-hid_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-hid-generic_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-i2c-algo-bit_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-i2c-algo-pcf_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-i2c-core_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-i2c-gpio_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-i2c-gpio-custom_3.14.79-2_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-i2c-tiny-usb_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ide-core_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ide-generic_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ifb_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-input-core_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-input-evdev_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-input-gpio-encoder_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-input-joydev_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-input-matrixkmap_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-input-polldev_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ip6tables_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ip6tables-extra_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ip6-tunnel_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-account_3.14.79+2.3-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-bandwidth_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-chaos_3.14.79+2.3-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-compat-xtables_3.14.79+2.3-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-condition_3.14.79+2.3-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-conntrack_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-conntrack-extra_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-core_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-delude_3.14.79+2.3-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-dhcpmac_3.14.79+2.3-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-dnetmap_3.14.79+2.3-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-extra_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-filter_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-fuzzy_3.14.79+2.3-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-geoip_3.14.79+2.3-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-hashlimit_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-iface_3.14.79+2.3-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-imq_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-ipmark_3.14.79+2.3-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-ipopt_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-ipp2p_3.14.79+2.3-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-iprange_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-ipsec_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-ipset_3.14.79+6.20.1-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-ipv4options_3.14.79+2.3-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-led_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-length2_3.14.79+2.3-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-logmark_3.14.79+2.3-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-lscan_3.14.79+2.3-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-lua_3.14.79+2.3-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-nat_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-nat6_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-nat-extra_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-nathelper_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-nathelper-extra_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-ndpi_3.14.79+6bc9b60-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-nflog_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-nfqueue_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-psd_3.14.79+2.3-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-quota2_3.14.79+2.3-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-rawnat_3.14.79+2.3-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-steal_3.14.79+2.3-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-sysrq_3.14.79+2.3-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-tarpit_3.14.79+2.3-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-tee_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-timerange_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-tproxy_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-u32_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-iptunnel_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-iptunnel4_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-iptunnel6_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-webmon_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipt-weburl_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ipv6_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ir-nec-decoder_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-iscsi-scst_3.14.79+3.1.x-6740-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-l2tp_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-l2tp-eth_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-l2tp-ip_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-leds-gpio_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-leds-tca6507_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ledtrig-gpio_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ledtrig-heartbeat_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ledtrig-netdev_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ledtrig-timer_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ledtrig-usbdev_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-lib80211_3.14.79+2016-06-20-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-lib-crc16_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-lib-crc32c_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-lib-crc7_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-lib-crc-ccitt_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-lib-crc-itu-t_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-lib-crct10dif_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-libertas-usb_3.14.79+2016-06-20-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-lib-lzo_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-lib-oid-registry_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-libphy_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-lib-raid6_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-lib-textsearch_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-lib-xor_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-lib-zlib_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-lirc_dev_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-llc_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-loop_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-mac80211_3.14.79+2016-06-20-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-macvlan_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-md-linear_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-md-mod_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-md-multipath_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-md-raid0_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-md-raid10_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-md-raid1_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-md-raid456_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-mii_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-mmc_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-mmc-over-gpio_3.14.79-4_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-mmc-spi_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-mppe_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-mt7601u_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-mt7610e_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-mt762x-mmc_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-mt76_3.14.79+2016-08-25-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-mt76x2e_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-nat46_3.14.79+1-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-nbd_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-nf-conntrack-netlink_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-nfnetlink_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-nfnetlink-log_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-nfnetlink-queue_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-nls-base_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-nls-cp437_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-nls-cp936_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-nls-iso8859-1_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-nls-utf8_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-oprofile_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-p54-common_3.14.79+2016-06-20-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-p54-usb_3.14.79+2016-06-20-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ppp_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-pppoa_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-pppoe_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-pppol2tp_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-pppox_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-pps_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-pps-gpio_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-pptp_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-pwm_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-pwm-gpio_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ralink-hwnat_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-ralink-i2c_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-rc-core_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-rc_map_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-rt2500-usb_3.14.79+2016-06-20-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-rt2800-lib_3.14.79+2016-06-20-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-rt2800-usb_3.14.79+2016-06-20-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-rt2860v2_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-rt2x00-lib_3.14.79+2016-06-20-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-rt2x00-usb_3.14.79+2016-06-20-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-rt5592_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-rt73-usb_3.14.79+2016-06-20-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-rtl8187_3.14.79+2016-06-20-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-rtl8192c-common_3.14.79+2016-06-20-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-rtl8192cu_3.14.79+2016-06-20-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-rtl8xxxu_3.14.79+2016-06-20-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-rtlwifi_3.14.79+2016-06-20-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-rtlwifi-usb_3.14.79+2016-06-20-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-rxrpc_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-sched_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-sched-connmark_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-sched-core_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-sched-esfq_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-scsi-cdrom_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-scsi-core_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-scsi-generic_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-scst_3.14.79+3.1.x-6740-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-scst-vdisk_3.14.79+3.1.x-6740-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-sctp_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-showspeed_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-siit_3.14.79+1.1-2_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-sit_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-slhc_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-sound-core_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-spi-bitbang_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-spi-dev_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-spi-gpio_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-spi-gpio-custom_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-spi-gpio-old_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-stp_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-tun_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usb2_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usb-acm_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usb-atm_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usb-audio_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usb-cm109_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usb-core_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usb-hid_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usbip_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usbip-client_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usbip-server_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usbmon_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usb-net_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usb-net-asix_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usb-net-cdc-ether_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usb-net-cdc-mbim_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usb-net-cdc-ncm_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usb-net-dm9601-ether_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usb-net-qmi-wwan_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usb-net-rndis_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usb-net-sierrawireless_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usb-ohci_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usb-printer_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usb-serial_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usb-serial-ark3116_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usb-serial-belkin_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usb-serial-ch341_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usb-serial-cp210x_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usb-serial-cypress-m8_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usb-serial-ftdi_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usb-serial-option_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usb-serial-oti6858_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usb-serial-pl2303_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usb-serial-qualcomm_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usb-serial-sierrawireless_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usb-serial-ti-usb_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usb-serial-visor_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usb-serial-wwan_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usb-storage_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usb-storage-extras_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-usb-wdm_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-video-core_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-video-gspca-core_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-video-gspca-sn9c20x_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-video-gspca-sunplus_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-video-gspca-zc3xx_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-video-pwc_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-video-sn9c102_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-video-uvc_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-video-videobuf2_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-w1_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-w1-gpio-custom_3.14.79-3_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-w1-master-ds2482_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-w1-master-ds2490_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-w1-master-gpio_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-w1-slave-ds2431_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-w1-slave-ds2433_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-w1-slave-ds2760_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-w1-slave-smem_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-w1-slave-therm_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-zd1211rw_3.14.79+2016-06-20-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "kmod-zram_3.14.79-1_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "opkg_9c97d5ecd795709c8584e972bfdf3aee3a5b846d-13_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "Packages"
+          },
+          {
+            "name": "Packages.gz"
+          },
+          {
+            "name": "procd_2016-08-15-ba0ef6bea720c6cb263c034787fdd1ebe75be2fa_mipsel_24kec_dsp.ipk"
+          },
+          {
+            "name": "procd-ujail_2016-08-15-ba0ef6bea720c6cb263c034787fdd1ebe75be2fa_mipsel_24kec_dsp.ipk"
+          }
+        ]
+      },
+      {
+        "name": "PandoraBox-ralink-mt7620-ap7620a-2016-10-21-git-7bb4a7c-squashfs-sysupgrade.bin"
+      },
+      {
+        "name": "PandoraBox-ralink-mt7620-br100-2016-10-21-git-7bb4a7c-squashfs-sysupgrade.bin"
+      },
+      {
+        "name": "PandoraBox-ralink-mt7620-hc5661-2016-10-21-git-7bb4a7c-squashfs-sysupgrade.bin"
+      },
+      {
+        "name": "PandoraBox-ralink-mt7620-hc5761-2016-10-21-git-7bb4a7c-squashfs-sysupgrade.bin"
+      },
+      {
+        "name": "PandoraBox-ralink-mt7620-hc5861-2016-10-21-git-7bb4a7c-squashfs-sysupgrade.bin"
+      },
+      {
+        "name": "PandoraBox-ralink-mt7620.manifest"
+      },
+      {
+        "name": "PandoraBox-ralink-mt7620-microwrt-2016-10-21-git-7bb4a7c-squashfs-sysupgrade.bin"
+      },
+      {
+        "name": "PandoraBox-ralink-mt7620-mt7620a-evb-2016-10-21-git-7bb4a7c-squashfs-sysupgrade.bin"
+      },
+      {
+        "name": "PandoraBox-ralink-mt7620-mtall-2016-10-21-git-7bb4a7c-squashfs-sysupgrade.bin"
+      },
+      {
+        "name": "PandoraBox-ralink-mt7620-mw305r-2016-10-21-git-7bb4a7c-squashfs-sysupgrade.bin"
+      },
+      {
+        "name": "PandoraBox-ralink-mt7620-oye-0001-2016-10-21-git-7bb4a7c-squashfs-sysupgrade.bin"
+      },
+      {
+        "name": "PandoraBox-ralink-mt7620-phicomm-k1-2016-10-21-git-7bb4a7c-squashfs-sysupgrade.bin"
+      },
+      {
+        "name": "PandoraBox-ralink-mt7620-phicomm-k2-2016-10-21-git-7bb4a7c-squashfs-sysupgrade.bin"
+      },
+      {
+        "name": "PandoraBox-ralink-mt7620-q7-2016-10-21-git-7bb4a7c-squashfs-sysupgrade.bin"
+      },
+      {
+        "name": "PandoraBox-ralink-mt7620-ry-1-2016-10-21-git-7bb4a7c-squashfs-sysupgrade.bin"
+      },
+      {
+        "name": "PandoraBox-ralink-mt7620-wr8305rt-2016-10-21-git-7bb4a7c-squashfs-sysupgrade.bin"
+      },
+      {
+        "name": "PandoraBox-ralink-mt7620-wrtnode1-2016-10-21-git-7bb4a7c-squashfs-sysupgrade.bin"
+      },
+      {
+        "name": "PandoraBox-ralink-mt7620-xiaomi-mini-2016-10-21-git-7bb4a7c-squashfs-sysupgrade.bin"
+      },
+      {
+        "name": "PandoraBox-ralink-mt7620-y1-2016-10-21-git-7bb4a7c-squashfs-sysupgrade.bin"
+      },
+      {
+        "name": "PandoraBox-ralink-mt7620-y1s-2016-10-21-git-7bb4a7c-squashfs-sysupgrade.bin"
+      },
+      {
+        "name": "PandoraBox-ralink-mt7620-yk-l1-2016-10-21-git-7bb4a7c-squashfs-sysupgrade.bin"
+      }
+    ]
+  }
+]

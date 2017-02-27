@@ -1,0 +1,21 @@
+[
+  {
+    "name": "DCIM",
+    "list": "online"
+  },
+  {
+    "name": "doc"
+  },
+  {
+    "name": "firmware",
+    "list": "online"
+  },
+  {
+    "name": "hardware",
+    "list": "online"
+  },
+  {
+    "name": "pb-boot",
+    "list": "online"
+  }
+]

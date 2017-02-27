@@ -1,0 +1,14 @@
+[
+  {
+    "name": "pb-boot",
+    "list": "online"
+  },
+  {
+    "name": "stable",
+    "list": "online"
+  },
+  {
+    "name": "testing",
+    "list": "online"
+  }
+]

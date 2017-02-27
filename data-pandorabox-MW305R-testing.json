@@ -1,0 +1,74 @@
+[
+  {
+    "name": "PandoraBox-R2-ralink-mw305r-r61-20140904-alpha.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-mw305r-squashfs-sysupgrade-r1012-20150606.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-mw305r-squashfs-sysupgrade-r433-20150212.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-mw305r-squashfs-sysupgrade-r448-20150214.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-mw305r-squashfs-sysupgrade-r456-20150216.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-mw305r-squashfs-sysupgrade-r457-20150216.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-mw305r-squashfs-sysupgrade-r510-20150309.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-mw305r-squashfs-sysupgrade-r958-20150531.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-mw305r-squashfs-sysupgrade-r985-20150603.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mw305r-r121-20140107.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mw305r-r182-20140112.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mw305r-r185-20140113.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mw305r-r187-20140116.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mw305r-r196-20140121.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mw305r-r201-20140122.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mw305r-r208-20140123.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mw305r-r208-20140124-aria2.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mw305r-r212-20140130.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mw305r-r247-20140408.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mw305r-r44-20131225.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mw305r-r474-20140703.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mw305r-r557-20140801.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mw305r-r66-20131227.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mw305r-r98-20140102.bin"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "name": "otp-general.bin"
+  },
+  {
+    "name": "pb-boot-comfast_ac100.bin"
+  },
+  {
+    "name": "pb-boot-hc5661a.bin"
+  },
+  {
+    "name": "pb-boot-hc5x61.bin"
+  },
+  {
+    "name": "pb-boot-newifi_d2.bin"
+  },
+  {
+    "name": "pb-boot-newifi_jd_d1.bin"
+  },
+  {
+    "name": "pb-boot-newifi_y1.bin"
+  },
+  {
+    "name": "pb-boot-newifi_y1s.bin"
+  },
+  {
+    "name": "pb-boot-pbr_m1_m2.bin"
+  },
+  {
+    "name": "pb-boot-pbr_w3.bin"
+  },
+  {
+    "name": "pb-boot-phicomm_k1.bin"
+  },
+  {
+    "name": "pb-boot-phicomm_k2.bin"
+  },
+  {
+    "name": "pb-boot-wsr_600.bin"
+  }
+]

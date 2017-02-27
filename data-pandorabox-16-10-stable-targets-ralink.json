@@ -1,0 +1,13 @@
+[
+  {
+    "name": "mt7620",
+    "list": "online"
+  },
+  {
+    "name": "mt7621",
+    "list": "online"
+  },
+  {
+    "name": "rt305x"
+  }
+]

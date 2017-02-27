@@ -1,0 +1,74 @@
+[
+  {
+    "name": "PandoraBox-ralink-mt7620-ap7620a-2017-01-03-git-6c24a7a-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-br100-2017-01-03-git-6c24a7a-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-hc5661-2017-01-03-git-6c24a7a-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-hc5761-2017-01-03-git-6c24a7a-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-hc5861-2017-01-03-git-6c24a7a-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620.manifest"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-microwrt-2017-01-03-git-6c24a7a-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-mt7620a-evb-2017-01-03-git-6c24a7a-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-mtall-2017-01-03-git-6c24a7a-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-mw305r-2017-01-03-git-6c24a7a-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-newifi-mini-2017-01-03-git-6c24a7a-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-newifi-y1s-2017-01-03-git-6c24a7a-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-oye-0001-2017-01-03-git-6c24a7a-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-phicomm-k1-2017-01-03-git-6c24a7a-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-phicomm-k2-2017-01-03-git-6c24a7a-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-q7-2017-01-03-git-6c24a7a-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-ry-1-2017-01-03-git-6c24a7a-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-wr8305rt-2017-01-03-git-6c24a7a-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-wrtnode1-2017-01-03-git-6c24a7a-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-xiaomi-mini-2017-01-03-git-6c24a7a-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-ralink-mt7620-yk-l1-2017-01-03-git-6c24a7a-squashfs-sysupgrade.bin"
+  },
+  {
+    "name": "PandoraBox-SDK-ralink-mt7620_gcc-4.8-linaro_uClibc-1.0.x.Linux-x86_64.tar.xz"
+  },
+  {
+    "name": "PandoraBox-toolchain-ralink-mt7620_gcc-4.8-linaro_uClibc-1.0.x.Linux-x86_64.tar.bz2"
+  },
+  {
+    "name": "sha256sums"
+  }
+]
