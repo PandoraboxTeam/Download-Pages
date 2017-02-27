@@ -1,0 +1,40 @@
+sudo: false
+
+language: node_js
+
+node_js: stable
+
+cache:
+  directories:
+    - node_modules
+
+before_install:
+  - echo '' > .npmrc
+
+install:
+  - npm install -g gulp
+  - npm install
+
+before_script:
+  - bower install
+
+script: gulp
+
+after_script:
+  - cp CNAME ./dist/
+  - cd ./dist
+  - git init
+  - git config user.name "PandoraBox Cat"
+  - git config user.email "cat@pandorabox.org.cn"
+  - git add .
+  - git commit -m "PandoraBox Cat push some files"
+  - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" HEAD:gh-pages
+
+branches:
+  only:
+    - master
+
+env:
+  global:
+    - GH_REF: github.com/PandoraboxTeam/Download-Pages.git
+
